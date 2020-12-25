@@ -25,7 +25,7 @@ Install the [latest version of Git](https://git-scm.com/book/en/v2/Getting-Start
 In order to work on code, create a fork from GitHub page. 
 Use Git for cloning the code to your local or below line for Ubuntu:
 
-	git clone <your-fork-git-link>
+	git clone <hans13>
 
 A directory called DataStructure will be created. Or you can use below link for exploring the code:
 
